@@ -1,0 +1,360 @@
+
+[
+  {
+    "name": "iPhone 16",
+    "price": 79900,
+    "features": true,
+    "rating": 4.8,
+    "company": "apple"
+  },
+  {
+    "name": "iPhone 15",
+    "price": 69900,
+    "features": true,
+    "rating": 4.7,
+    "company": "apple"
+  },
+  {
+    "name": "MacBook Air M3",
+    "price": 114900,
+    "features": true,
+    "rating": 4.9,
+    "company": "apple"
+  },
+  {
+    "name": "iPad Air",
+    "price": 59900,
+    "features": true,
+    "rating": 4.6,
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Galaxy S25",
+    "price": 80999,
+    "features": true,
+    "rating": 4.8,
+    "company": "samsung"
+  },
+  {
+    "name": "Samsung Galaxy A56",
+    "price": 41999,
+    "features": true,
+    "rating": 4.5,
+    "company": "samsung"
+  },
+  {
+    "name": "Samsung Galaxy Tab S10",
+    "price": 67999,
+    "features": true,
+    "rating": 4.7,
+    "company": "samsung"
+  },
+  {
+    "name": "Samsung Galaxy Buds FE",
+    "price": 7999,
+    "features": false,
+    "rating": 4.3,
+    "company": "samsung"
+  },
+  {
+    "name": "Dell XPS 13",
+    "price": 129999,
+    "features": true,
+    "rating": 4.7,
+    "company": "dell"
+  },
+  {
+    "name": "Dell Inspiron 15",
+    "price": 58990,
+    "features": true,
+    "rating": 4.4,
+    "company": "dell"
+  },
+  {
+    "name": "Dell Latitude 5450",
+    "price": 89999,
+    "features": true,
+    "rating": 4.5,
+    "company": "dell"
+  },
+  {
+    "name": "Dell Alienware Gaming Laptop",
+    "price": 189999,
+    "features": true,
+    "rating": 4.8,
+    "company": "dell"
+  },
+  {
+    "name": "Redmi Note 14",
+    "price": 17999,
+    "features": true,
+    "rating": 4.4,
+    "company": "mi"
+  },
+  {
+    "name": "Redmi Note 14 Pro",
+    "price": 24999,
+    "features": true,
+    "rating": 4.6,
+    "company": "mi"
+  },
+  {
+    "name": "Xiaomi 14",
+    "price": 54999,
+    "features": true,
+    "rating": 4.7,
+    "company": "mi"
+  },
+  {
+    "name": "Redmi Pad Pro",
+    "price": 24999,
+    "features": true,
+    "rating": 4.5,
+    "company": "mi"
+  },
+  {
+    "name": "iPhone SE",
+    "price": 49900,
+    "features": false,
+    "rating": 4.2,
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Galaxy M35",
+    "price": 19999,
+    "features": false,
+    "rating": 4.3,
+    "company": "samsung"
+  },
+  {
+    "name": "Dell Vostro 3520",
+    "price": 42990,
+    "features": false,
+    "rating": 4.1,
+    "company": "dell"
+  },
+  {
+    "name": "Redmi Buds 5",
+    "price": 2999,
+    "features": false,
+    "rating": 4.2,
+    "company": "mi"
+  },
+  {
+    "name": "iPhone 16 Pro",
+    "price": 119900,
+    "features": true,
+    "rating": 4.9,
+    "company": "apple"
+  },
+  {
+    "name": "iPhone 16 Pro Max",
+    "price": 144900,
+    "features": true,
+    "rating": 4.9,
+    "company": "apple"
+  },
+  {
+    "name": "MacBook Pro M4",
+    "price": 169900,
+    "features": true,
+    "rating": 4.9,
+    "company": "apple"
+  },
+  {
+    "name": "iPad Pro",
+    "price": 99900,
+    "features": true,
+    "rating": 4.8,
+    "company": "apple"
+  },
+  {
+    "name": "Apple Watch SE",
+    "price": 29900,
+    "features": false,
+    "rating": 4.4,
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Galaxy S25 Ultra",
+    "price": 129999,
+    "features": true,
+    "rating": 4.9,
+    "company": "samsung"
+  },
+  {
+    "name": "Samsung Galaxy Z Flip",
+    "price": 109999,
+    "features": true,
+    "rating": 4.6,
+    "company": "samsung"
+  },
+  {
+    "name": "Samsung Galaxy Watch",
+    "price": 24999,
+    "features": false,
+    "rating": 4.3,
+    "company": "samsung"
+  },
+  {
+    "name": "Samsung Galaxy Buds3 Pro",
+    "price": 19999,
+    "features": true,
+    "rating": 4.6,
+    "company": "samsung"
+  },
+  {
+    "name": "Dell Precision 3590",
+    "price": 139999,
+    "features": true,
+    "rating": 4.6,
+    "company": "dell"
+  },
+  {
+    "name": "Dell G15 Gaming Laptop",
+    "price": 84999,
+    "features": true,
+    "rating": 4.5,
+    "company": "dell"
+  },
+  {
+    "name": "Dell OptiPlex Desktop",
+    "price": 65999,
+    "features": false,
+    "rating": 4.2,
+    "company": "dell"
+  },
+  {
+    "name": "Dell UltraSharp Monitor",
+    "price": 32999,
+    "features": true,
+    "rating": 4.5,
+    "company": "dell"
+  },
+  {
+    "name": "Redmi Note 14 Pro Plus",
+    "price": 30999,
+    "features": true,
+    "rating": 4.6,
+    "company": "mi"
+  },
+  {
+    "name": "Xiaomi 14 Ultra",
+    "price": 99999,
+    "features": true,
+    "rating": 4.8,
+    "company": "mi"
+  },
+  {
+    "name": "Redmi Pad SE",
+    "price": 12999,
+    "features": false,
+    "rating": 4.3,
+    "company": "mi"
+  },
+  {
+    "name": "Xiaomi Smart Band",
+    "price": 3499,
+    "features": false,
+    "rating": 4.2,
+    "company": "mi"
+  },
+  {
+    "name": "Redmi Smart TV",
+    "price": 27999,
+    "features": true,
+    "rating": 4.4,
+    "company": "mi"
+  },
+  {
+    "name": "iPhone 14",
+    "price": 49900,
+    "features": false,
+    "rating": 4.3,
+    "company": "apple"
+  },
+  {
+    "name": "Mac mini M4",
+    "price": 59900,
+    "features": true,
+    "rating": 4.8,
+    "company": "apple"
+  },
+  {
+    "name": "Apple AirPods 4",
+    "price": 12900,
+    "features": true,
+    "rating": 4.5,
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Galaxy A36",
+    "price": 32999,
+    "features": true,
+    "rating": 4.4,
+    "company": "samsung"
+  },
+  {
+    "name": "Samsung Galaxy Tab A9",
+    "price": 14999,
+    "features": false,
+    "rating": 4.2,
+    "company": "samsung"
+  },
+  {
+    "name": "Samsung 4K Smart Monitor",
+    "price": 39999,
+    "features": true,
+    "rating": 4.5,
+    "company": "samsung"
+  },
+  {
+    "name": "Dell Chromebook",
+    "price": 28999,
+    "features": false,
+    "rating": 4.0,
+    "company": "dell"
+  },
+  {
+    "name": "Dell Pro 14",
+    "price": 74999,
+    "features": true,
+    "rating": 4.4,
+    "company": "dell"
+  },
+  {
+    "name": "Redmi Note 13",
+    "price": 15999,
+    "features": false,
+    "rating": 4.2,
+    "company": "mi"
+  },
+  {
+    "name": "Xiaomi Robot Vacuum",
+    "price": 24999,
+    "features": true,
+    "rating": 4.3,
+    "company": "mi"
+  },
+  {
+    "name": "Samsung Galaxy A25",
+    "price": 26999,
+    "features": false,
+    "rating": 4.1,
+    "company": "samsung"
+  },
+  {
+    "name": "Apple Magic Keyboard",
+    "price": 9999,
+    "features": false,
+    "rating": 4.4,
+    "company": "apple"
+  },
+  {
+    "name": "Dell Wireless Keyboard",
+    "price": 2499,
+    "features": false,
+    "rating": 4.0,
+    "company": "dell"
+  }
+]
